@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Summer Rain</title>
+  <desc id="desc">A mint and ocean blue banner with a rain drop and soft ripples. Build useful things. Keep creating.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#edf9f6"/><stop offset="1" stop-color="#d5efef"/></linearGradient>
+    <linearGradient id="drop" x2="1" y2="1"><stop stop-color="#0b5269"/><stop offset="1" stop-color="#38b4a5"/></linearGradient>
+    <clipPath id="rounded"><rect width="1200" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <circle cx="1140" cy="15" r="200" fill="#b9e6df" opacity=".5"/>
+    <path d="M650 320C820 180 1020 245 1200 145V320Z" fill="#80cfc8" opacity=".2"/>
+    <path d="M750 320C905 235 1080 270 1200 200V320Z" fill="#289f9e" opacity=".12"/>
+    <rect x="65" y="54" width="138" height="28" rx="14" fill="#d6eeea"/>
+    <text x="134" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#267374">IDEAS → BUILDS</text>
+    <text x="62" y="161" font-family="Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#123f50">Summer Rain</text>
+    <text x="66" y="205" font-family="Arial, sans-serif" font-size="22" fill="#377080">Build useful things. Keep creating.</text>
+    <text x="66" y="267" font-family="Arial, sans-serif" font-size="14" letter-spacing="3" fill="#418587">AI TOOLS / AGENT WORKFLOWS / CREATIVE CODE</text>
+    <circle cx="993" cy="93" r="39" fill="#f6d889"/>
+    <ellipse cx="953" cy="248" rx="101" ry="24" fill="none" stroke="#51b8b0" stroke-width="5" opacity=".55"/>
+    <ellipse cx="953" cy="248" rx="68" ry="15" fill="none" stroke="#278c9a" stroke-width="4" opacity=".65"/>
+    <path d="M951 51C933 98 887 145 887 185A66 66 0 001019 185C1019 145 974 98 951 51Z" fill="url(#drop)"/>
+    <path d="M951 51C948 120 948 150 979 172C1003 190 1002 219 982 241A66 66 0 001019 185C1019 145 974 98 951 51Z" fill="#7ed7c6" opacity=".65"/>
+  </g>
+</svg>
