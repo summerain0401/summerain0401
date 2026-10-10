@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/summer-rain-banner.svg" alt="Summer Rain — Build useful things. Keep creating." width="100%" />
+  <img src="./assets/banner-pixel-rain.jpg" alt="Summer Rain — Pixel rain-night city. Build. Learn. Create." width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Summer Rain 🌦️</h1>
