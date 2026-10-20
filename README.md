@@ -1,45 +1,47 @@
-<p align="center">
-  <img src="./assets/banner-pixel-rain.jpg" alt="Summer Rain — Pixel rain-night city. Build. Learn. Create." width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Summer Rain 🌦️</h1>
-
-<p align="center">
-  探索 AI 工具、Agent 工作流与创作自动化。<br />
-  <strong>把想法做成可用的小产品，让重复的事情更简单。</strong>
+<p>
+  <img src="./assets/terminal-banner.svg" alt="Summer Rain — independent developer exploring agent systems, payment interfaces and creative automation." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/summerain0401?tab=repositories">Browse projects</a> ·
-  <a href="https://github.com/summerain0401/AiPayHub">AI-Pay Hub</a> ·
-  <a href="https://github.com/summerain0401/gbro-cover-design">Creative tools</a>
+  <a href="https://github.com/summerain0401/AiPayHub">AIpayHub</a> &nbsp; / &nbsp;
+  <a href="https://github.com/summerain0401/The-Silicon-Economy">The Silicon Economy</a> &nbsp; / &nbsp;
+  <a href="https://x.com/summerain0401">X</a>
 </p>
+
+### `01` / whoami
+
+独立开发者，关注 **Agent 支付、机器经济与创作自动化**。喜欢拆解系统，也喜欢把想法做成可以运行的小工具。
+
+Independent developer exploring how agents use services, how software gets paid, and how creative work can be automated.
+
+```text
+~/workspace
+├── build     API gateways · agent workflows · creative tools
+├── research  machine-readable pricing · machine economy
+└── approach  small experiments, readable code, steady iteration
+```
+
+### `02` / selected work
+
+| `build / AIpayHub` | `research / The Silicon Economy` |
+| :--- | :--- |
+| **[按次付费网关原型 →](https://github.com/summerain0401/AiPayHub)** | **[《硅基经济学》→](https://github.com/summerain0401/The-Silicon-Economy)** |
+| 探索 HTTP 402、订单状态与流式代理，包含 Alipay WAP 支付适配。 | 从机器可读报价与微支付，讨论 Agent 信用、市场结构和支出责任。 |
+| `TypeScript` `Fastify` `Redis` | `14 篇正文` `中文书稿` `CC BY 4.0 正文` |
+| Experimental · 改进内容在 [PR #1](https://github.com/summerain0401/AiPayHub/pull/1) 审阅中。 | Public manuscript · 原创正文授权范围见仓库说明。 |
+
+**Creative corner** — [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design)：封面提示词与创作工作流实验，fork 自 [pyang5166](https://github.com/pyang5166/gbro-cover-design)。
+
+### `03` / toolbox
+
+`TypeScript` &nbsp; `Node.js` &nbsp; `Fastify` &nbsp; `Redis` &nbsp; `Vitest` &nbsp; `Git`
+
+### `04` / connect
+
+欢迎交流 Agent 支付、API 设计、机器经济与创作工具。项目问题和改进建议，可以在对应仓库的 Issues 里聊。
+
+[X / @summerain0401](https://x.com/summerain0401) &nbsp; · &nbsp; [Email](mailto:summerain0401@gmail.com) &nbsp; · &nbsp; [All public repositories](https://github.com/summerain0401?tab=repositories)
 
 ---
 
-### About me / 关于我
-
-喜欢把新的 AI 能力接进具体场景：从工具集成到内容创作，从一个小想法到可以运行的原型。这里记录我的项目、实验和学习过程。
-
-- **AI × 产品** — 探索 AI 服务的集成与按次付费体验。
-- **Agent × 工作流** — 关注可复用的 Skills，让创作流程更顺手。
-- **代码 × 创意** — 用小工具减少重复操作，给创意留出更多时间。
-
-### Selected projects / 项目精选
-
-| 项目 | 简介 | 关键词 |
-| :--- | :--- | :--- |
-| [⚡ AI-Pay Hub](https://github.com/summerain0401/AiPayHub) | AI 微支付网关：通过反向代理接入按次计费，支持 Dify / Coze 集成与流式响应。 | TypeScript · Fastify · Redis · X402 |
-| [🎨 gbro-cover-design](https://github.com/summerain0401/gbro-cover-design) | 公众号 / 小红书封面提示词 Skill，提供三轮提问与 10 种构图风格。**Fork 自 [pyang5166](https://github.com/pyang5166/gbro-cover-design)**，用于学习与探索创作工作流。 | Agent Skills · Prompt Design · Creative Workflow |
-
-### In my toolbox / 项目中使用
-
-`TypeScript` · `Node.js` · `Fastify` · `Redis` · `Vitest` · `Git`
-
-### Let's connect / 一起交流
-
-欢迎围绕 AI 工具、自动化与创作工作流交流。项目相关的问题和想法，可以在对应仓库的 Issues 里聊。
-
-<p align="center">
-  <sub>Small ideas, steady progress. / 小小的想法，持续地生长。</sub>
-</p>
+<p align="center"><sub>stay curious. make it work. make it clear.</sub></p>
