@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="264" viewBox="0 0 640 264" role="img" aria-labelledby="title desc">
+  <title id="title">AIpayHub</title>
+  <desc id="desc">HTTP 402 payment gateway prototype. Orders, checkout adapters &amp; streaming. TypeScript / Fastify / Redis</desc>
+  <rect x="1" y="1" width="638" height="262" rx="12" fill="#09130e" stroke="#294b37" stroke-width="2"/>
+  <path d="M1 52H639" stroke="#294b37"/>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">
+    <rect x="28" y="23" width="7" height="7" fill="#8dffb5"/>
+    <text x="47" y="31" font-size="13" letter-spacing="1" fill="#9cc6aa">01 / BUILD</text>
+    <text x="604" y="33" text-anchor="end" font-size="19" fill="#8dffb5">&#8599;</text>
+    <text x="28" y="100" font-size="30" font-weight="700" fill="#8dffb5">AIpayHub</text>
+    <text x="28" y="138" font-size="16" fill="#d0ded4">HTTP 402 payment gateway prototype</text>
+    <text x="28" y="165" font-size="15" fill="#8ca795">Orders, checkout adapters &amp; streaming</text>
+    <path d="M28 194H612" stroke="#294b37"/>
+    <text x="28" y="230" font-size="13" fill="#b0ceba">TypeScript / Fastify / Redis</text>
+  </g>
+</svg>
