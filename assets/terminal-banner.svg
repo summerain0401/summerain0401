@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Summer Rain - Independent developer</title>
+  <desc id="desc">A dark terminal with green type. Agent systems, payments and creative tools. Build small. Read deeply. Keep shipping.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#83ffc0" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="surface" x2="1" y2="1">
+      <stop stop-color="#0b1915"/>
+      <stop offset="1" stop-color="#070c0b"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#8dffb5"/>
+      <stop offset="1" stop-color="#49cba1"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="438" rx="16" fill="url(#surface)" stroke="#244337" stroke-width="2"/>
+  <rect x="2" y="47" width="1276" height="390" rx="15" fill="url(#grid)"/>
+  <path d="M2 47H1278" stroke="#244337"/>
+  <circle cx="29" cy="25" r="5" fill="#5f7e6c"/>
+  <circle cx="49" cy="25" r="5" fill="#779a7f"/>
+  <circle cx="69" cy="25" r="5" fill="#a5e0a9"/>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">
+    <text x="102" y="30" font-size="13" fill="#8aa493">summerain0401 / workspace</text>
+    <text x="1216" y="30" text-anchor="end" font-size="12" fill="#8aa493">~/build</text>
+    <text x="64" y="116" font-size="17" fill="#8dffb5">&#10095; whoami</text>
+    <text x="61" y="214" font-size="77" letter-spacing="-2" font-weight="700" fill="url(#accent)">SUMMER RAIN</text>
+    <text x="64" y="255" font-size="18" fill="#cedbd3">Independent developer. Curious by default.</text>
+    <text x="64" y="306" font-size="16" fill="#8aa493">Build small. Read deeply. Keep shipping.</text>
+    <rect x="497" y="292" width="10" height="18" fill="#8dffb5"/>
+    <rect x="823" y="91" width="393" height="242" rx="8" fill="#08100d" stroke="#31503e"/>
+    <text x="847" y="126" font-size="14" fill="#8dffb5">$ cat focus.txt</text>
+    <path d="M847 143H1192" stroke="#244337"/>
+    <text x="847" y="176" font-size="16" fill="#cedbd3">01  agent systems</text>
+    <text x="847" y="211" font-size="16" fill="#cedbd3">02  payment interfaces</text>
+    <text x="847" y="246" font-size="16" fill="#cedbd3">03  creative automation</text>
+    <text x="847" y="302" font-size="12" fill="#789382">code + research + experiments</text>
+    <path d="M64 366H1216" stroke="#244337"/>
+    <text x="64" y="404" font-size="12" letter-spacing="2" fill="#a5c9b1">IDEAS &#8594; PROTOTYPES &#8594; USEFUL TOOLS</text>
+    <text x="1216" y="404" text-anchor="end" font-size="12" fill="#789382">SUMMERAIN0401</text>
+  </g>
+</svg>
