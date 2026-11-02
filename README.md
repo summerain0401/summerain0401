@@ -2,6 +2,8 @@
   <img src="./assets/terminal-banner-v2.svg" alt="Summer Rain — independent developer exploring agent systems, payment interfaces and creative automation." width="100%" />
 </p>
 
+[中文](README.md) | [English](README.en.md)
+
 <p align="center">
   <a href="https://github.com/summerain0401/AiPayHub">AIpayHub</a> &nbsp; / &nbsp;
   <a href="https://github.com/summerain0401/The-Silicon-Economy">The Silicon Economy</a> &nbsp; / &nbsp;
@@ -32,9 +34,22 @@ const summerRain = {
 
 **[AIpayHub](https://github.com/summerain0401/AiPayHub)** — 按次付费网关原型，探索 HTTP 402、订单状态与流式代理，包含 Alipay WAP 支付适配。改进内容在 [PR #1](https://github.com/summerain0401/AiPayHub/pull/1) 审阅中。
 
-**[《硅基经济学》](https://github.com/summerain0401/The-Silicon-Economy)** — 从机器可读报价与微支付，讨论 Agent 信用、市场结构和支出责任。14 篇中文正文；*原创正文采用 CC BY 4.0，授权范围见仓库说明。
+**[《硅基经济学》](https://github.com/summerain0401/The-Silicon-Economy)** — 从机器可读报价与微支付，讨论 Agent 信用、市场结构和支出责任。14 篇中文正文；原创正文采用 CC BY 4.0，授权范围见仓库说明。
 
 **Creative corner** — [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design)：封面提示词与创作工作流实验，fork 自 [pyang5166](https://github.com/pyang5166/gbro-cover-design)。
+
+### 项目导航 / projects
+
+已公开项目按用途分组；各仓库 README 提供中文与英文入口，说明当前能力和限制。
+
+| 方向 | 项目 |
+| --- | --- |
+| Agent 与支付 | [AiPayHub](https://github.com/summerain0401/AiPayHub) · [Flop](https://github.com/summerain0401/Flop) |
+| 创作工具 | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) · [story-to-handdrawn-video](https://github.com/summerain0401/story-to-handdrawn-video) · [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design) |
+| 交易研究 | [HyperTradeSystem](https://github.com/summerain0401/HyperTradeSystem) · [4h-trading-system](https://github.com/summerain0401/4h-trading-system) |
+| 内容与写作 | [The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy) · [media](https://github.com/summerain0401/media) · [Less](https://github.com/summerain0401/Less) |
+
+交易项目和支付项目均为实验，功能边界以各仓库说明为准；公开可见不表示所有仓库均已授予开源复用许可。
 
 ### `03` / toolbox
 
