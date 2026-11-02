@@ -36,8 +36,6 @@ const summerRain = {
 
 **[《硅基经济学》](https://github.com/summerain0401/The-Silicon-Economy)** — 从机器可读报价与微支付，讨论 Agent 信用、市场结构和支出责任。14 篇中文正文；原创正文采用 CC BY 4.0，授权范围见仓库说明。
 
-**Creative corner** — [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design)：封面提示词与创作工作流实验，fork 自 [pyang5166](https://github.com/pyang5166/gbro-cover-design)。
-
 ### 项目导航 / projects
 
 已公开项目按用途分组；各仓库 README 提供中文与英文入口，说明当前能力和限制。
@@ -45,7 +43,7 @@ const summerRain = {
 | 方向 | 项目 |
 | --- | --- |
 | Agent 与支付 | [AiPayHub](https://github.com/summerain0401/AiPayHub) · [Flop](https://github.com/summerain0401/Flop) |
-| 创作工具 | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) · [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design) |
+| 创作工具 | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) |
 | 交易研究 | [HyperTradeSystem](https://github.com/summerain0401/HyperTradeSystem) · [4h-trading-system](https://github.com/summerain0401/4h-trading-system) |
 | 内容与写作 | [The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy) · [media](https://github.com/summerain0401/media) · [Less](https://github.com/summerain0401/Less) |
 

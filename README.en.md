@@ -19,8 +19,6 @@ Independent developer exploring agent payments, the machine economy, and creativ
 
 **[The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy)** — fourteen Chinese texts about machine-readable prices, agent credit, markets, and spending accountability. Original main-text portions use CC BY 4.0 within the documented scope.
 
-**Creative corner:** [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design), a cover-prompt workflow forked from [pyang5166](https://github.com/pyang5166/gbro-cover-design).
-
 ### Project navigation
 
 Public projects by purpose. Repository READMEs provide Chinese and English entry points with implementation status and limits.
@@ -28,7 +26,7 @@ Public projects by purpose. Repository READMEs provide Chinese and English entry
 | Area | Projects |
 | --- | --- |
 | Agents and payments | [AiPayHub](https://github.com/summerain0401/AiPayHub) · [Flop](https://github.com/summerain0401/Flop) |
-| Creative tools | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) · [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design) |
+| Creative tools | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) |
 | Trading research | [HyperTradeSystem](https://github.com/summerain0401/HyperTradeSystem) · [4h-trading-system](https://github.com/summerain0401/4h-trading-system) |
 | Content and writing | [The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy) · [media](https://github.com/summerain0401/media) · [Less](https://github.com/summerain0401/Less) |
 
