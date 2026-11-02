@@ -45,7 +45,7 @@ const summerRain = {
 | 方向 | 项目 |
 | --- | --- |
 | Agent 与支付 | [AiPayHub](https://github.com/summerain0401/AiPayHub) · [Flop](https://github.com/summerain0401/Flop) |
-| 创作工具 | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) · [story-to-handdrawn-video](https://github.com/summerain0401/story-to-handdrawn-video) · [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design) |
+| 创作工具 | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) · [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design) |
 | 交易研究 | [HyperTradeSystem](https://github.com/summerain0401/HyperTradeSystem) · [4h-trading-system](https://github.com/summerain0401/4h-trading-system) |
 | 内容与写作 | [The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy) · [media](https://github.com/summerain0401/media) · [Less](https://github.com/summerain0401/Less) |
 

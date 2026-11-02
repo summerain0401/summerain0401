@@ -28,7 +28,7 @@ Public projects by purpose. Repository READMEs provide Chinese and English entry
 | Area | Projects |
 | --- | --- |
 | Agents and payments | [AiPayHub](https://github.com/summerain0401/AiPayHub) · [Flop](https://github.com/summerain0401/Flop) |
-| Creative tools | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) · [story-to-handdrawn-video](https://github.com/summerain0401/story-to-handdrawn-video) · [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design) |
+| Creative tools | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) · [gbro-cover-design](https://github.com/summerain0401/gbro-cover-design) |
 | Trading research | [HyperTradeSystem](https://github.com/summerain0401/HyperTradeSystem) · [4h-trading-system](https://github.com/summerain0401/4h-trading-system) |
 | Content and writing | [The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy) · [media](https://github.com/summerain0401/media) · [Less](https://github.com/summerain0401/Less) |
 
