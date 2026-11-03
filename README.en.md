@@ -2,7 +2,7 @@
   <img src="./assets/terminal-banner-v2.svg" alt="Summer Rain — independent developer exploring agent systems, payment interfaces and creative automation." width="100%" />
 </p>
 
-[中文](README.md) | [English](README.en.md)
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 ### 01 / whoami
 
@@ -21,7 +21,7 @@ Independent developer exploring agent payments, the machine economy, and creativ
 
 ### Project navigation
 
-Public projects by purpose. Repository READMEs provide Chinese and English entry points with implementation status and limits.
+Public projects by purpose. Repository READMEs open in English by default, with a Simplified Chinese entry point with implementation status and limits.
 
 | Area | Projects |
 | --- | --- |

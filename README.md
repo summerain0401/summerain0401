@@ -2,63 +2,46 @@
   <img src="./assets/terminal-banner-v2.svg" alt="Summer Rain — independent developer exploring agent systems, payment interfaces and creative automation." width="100%" />
 </p>
 
-[中文](README.md) | [English](README.en.md)
+[English](README.md) | [简体中文](README.zh-CN.md)
 
-<p align="center">
-  <a href="https://github.com/summerain0401/AiPayHub">AIpayHub</a> &nbsp; / &nbsp;
-  <a href="https://github.com/summerain0401/The-Silicon-Economy">The Silicon Economy</a> &nbsp; / &nbsp;
-  <a href="https://x.com/summerain0401">X</a>
-</p>
+### 01 / whoami
 
-### `01` / whoami
+Independent developer exploring agent payments, the machine economy, and creative automation. I like understanding systems and turning ideas into small working tools.
 
-独立开发者，关注 **Agent 支付、机器经济与创作自动化**。喜欢拆解系统，也喜欢把想法做成可以运行的小工具。
-
-Independent developer exploring how agents use services, how software gets paid, and how creative work can be automated.
-
-```js
-const summerRain = {
-  role: "independent developer",
-  building: ["agent payments", "creative tools"],
-  writing: "The Silicon Economy",
-  approach: "small experiments, steady iteration"
-};
-```
-
-### `02` / selected work
+### 02 / selected work
 
 <p>
-  <a href="https://github.com/summerain0401/AiPayHub"><img src="./assets/project-aipayhub.svg" alt="AIpayHub — experimental HTTP 402 payment gateway built with TypeScript, Fastify and Redis" width="49%" /></a>
-  <a href="https://github.com/summerain0401/The-Silicon-Economy"><img src="./assets/project-silicon-economy.svg" alt="The Silicon Economy — Chinese manuscript on machine-readable pricing, agent credit and delegated spending" width="49%" /></a>
+  <a href="https://github.com/summerain0401/AiPayHub"><img src="./assets/project-aipayhub.svg" alt="AI-Pay Hub — experimental payment gateway" width="49%" /></a>
+  <a href="https://github.com/summerain0401/The-Silicon-Economy"><img src="./assets/project-silicon-economy.svg" alt="The Silicon Economy — Chinese manuscript" width="49%" /></a>
 </p>
 
-**[AIpayHub](https://github.com/summerain0401/AiPayHub)** — 按次付费网关原型，探索 HTTP 402、订单状态与流式代理，包含 Alipay WAP 支付适配。改进内容在 [PR #1](https://github.com/summerain0401/AiPayHub/pull/1) 审阅中。
+**[AI-Pay Hub](https://github.com/summerain0401/AiPayHub)** — an experimental HTTP 402 gateway exploring per-use billing, order state, streaming proxying, and Alipay WAP payment. Payment and administrator improvements remain under review in [PR #1](https://github.com/summerain0401/AiPayHub/pull/1).
 
-**[《硅基经济学》](https://github.com/summerain0401/The-Silicon-Economy)** — 从机器可读报价与微支付，讨论 Agent 信用、市场结构和支出责任。14 篇中文正文；原创正文采用 CC BY 4.0，授权范围见仓库说明。
+**[The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy)** — fourteen Chinese texts about machine-readable prices, agent credit, markets, and spending accountability. Original main-text portions use CC BY 4.0 within the documented scope.
 
-### 项目导航 / projects
+### Project navigation
 
-已公开项目按用途分组；各仓库 README 提供中文与英文入口，说明当前能力和限制。
+Public projects by purpose. Repository READMEs open in English by default, with a Simplified Chinese entry point with implementation status and limits.
 
-| 方向 | 项目 |
+| Area | Projects |
 | --- | --- |
-| Agent 与支付 | [AiPayHub](https://github.com/summerain0401/AiPayHub) · [Flop](https://github.com/summerain0401/Flop) |
-| 创作工具 | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) |
-| 交易研究 | [HyperTradeSystem](https://github.com/summerain0401/HyperTradeSystem) · [4h-trading-system](https://github.com/summerain0401/4h-trading-system) |
-| 内容与写作 | [The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy) · [media](https://github.com/summerain0401/media) · [Less](https://github.com/summerain0401/Less) |
+| Agents and payments | [AiPayHub](https://github.com/summerain0401/AiPayHub) · [Flop](https://github.com/summerain0401/Flop) |
+| Creative tools | [kcard](https://github.com/summerain0401/kcard) · [videoMaker](https://github.com/summerain0401/videoMaker) · [videoShort](https://github.com/summerain0401/videoShort) |
+| Trading research | [HyperTradeSystem](https://github.com/summerain0401/HyperTradeSystem) · [4h-trading-system](https://github.com/summerain0401/4h-trading-system) |
+| Content and writing | [The Silicon Economy](https://github.com/summerain0401/The-Silicon-Economy) · [media](https://github.com/summerain0401/media) · [Less](https://github.com/summerain0401/Less) |
 
-交易项目和支付项目均为实验，功能边界以各仓库说明为准；公开可见不表示所有仓库均已授予开源复用许可。
+Trading and payment projects are experiments; consult each README for its actual scope. Public visibility does not mean every repository grants an open-source reuse license.
 
-### `03` / toolbox
+### 03 / toolbox
 
-`TypeScript` &nbsp; `Node.js` &nbsp; `Fastify` &nbsp; `Redis` &nbsp; `Vitest` &nbsp; `Git`
+`TypeScript` · `Node.js` · `Fastify` · `Redis` · `Vitest` · `Git`
 
-### `04` / connect
+### 04 / connect
 
-欢迎交流 Agent 支付、API 设计、机器经济与创作工具。项目问题和改进建议，可以在对应仓库的 Issues 里聊。
+Happy to discuss agent payments, API design, machine economics, and creative tools. Use the relevant repository's issues for project questions and improvements.
 
-[X / @summerain0401](https://x.com/summerain0401) &nbsp; · &nbsp; [Email](mailto:summerain0401@gmail.com) &nbsp; · &nbsp; [All public repositories](https://github.com/summerain0401?tab=repositories)
+[X / @summerain0401](https://x.com/summerain0401) · [Email](mailto:summerain0401@gmail.com) · [All public repositories](https://github.com/summerain0401?tab=repositories)
 
 ---
 
-<p align="center"><sub>stay curious. make it work. make it clear.</sub></p>
+stay curious. make it work. make it clear.
